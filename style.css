@@ -1,0 +1,10 @@
+table {
+  width: 1200px;
+  height: auto;
+  border:1px solid black;
+  border-collapse: collapse;
+}
+
+#container {
+  background-color: #dcf7f0;
+}
